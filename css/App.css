@@ -1,8 +1,8 @@
 a{
 	font-style: italic;
 	text-decoration: none;
-	color: ##EF3A3A;
+	color: #EF3A3A;
 }
-a:active{
+a:link{
 	color: #B10B0B;
 }
