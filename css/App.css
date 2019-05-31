@@ -1,0 +1,8 @@
+a{
+	font-style: italic;
+	text-decoration: none;
+	color: ##EF3A3A;
+}
+a:active{
+	color: #B10B0B;
+}
