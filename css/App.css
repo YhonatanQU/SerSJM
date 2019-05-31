@@ -22,17 +22,17 @@ a:link{
 .button:focus{
 	outline: none;
 }
-.active{
+.button-active{
 	background: #5FBD6E;
 	color:#FFFFFF;
 }
-.active:hover{
+.button-active:hover{
 	background:#169947;
 }
-.failed{
+.button-failed{
 	background: #F51010;
 	color:#FFFFFF;
 }
-.failed:hover{
+.button-failed:hover{
 	background:#CA0505;
 }
