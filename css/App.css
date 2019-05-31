@@ -6,3 +6,33 @@ a{
 a:link{
 	color: #B10B0B;
 }
+
+.button{
+	text-decoration: none;
+	font-family: arial;
+	padding: 5px 10px;
+	margin: 3px;
+	border-radius: 3px;
+	border: none;
+	box-shadow: 0px 0px 2px;
+	cursor: pointer;
+	font-size: .8em;
+}
+
+.button:focus{
+	outline: none;
+}
+.active{
+	background: #5FBD6E;
+	color:#FFFFFF;
+}
+.active:hover{
+	background:#169947;
+}
+.failed{
+	background: #F51010;
+	color:#FFFFFF;
+}
+.failed:hover{
+	background:#CA0505;
+}
