@@ -1,0 +1,27 @@
+{
+  "name": "webpack-inicio",
+  "version": "1.0.0",
+  "description": "iniciando con webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack js/App.js -o build/bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YhonatanQU/SerSJM.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "@Yquispe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YhonatanQU/SerSJM/issues"
+  },
+  "homepage": "https://github.com/YhonatanQU/SerSJM#readme",
+  "devDependencies": {
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.2"
+  }
+}
